@@ -2,11 +2,11 @@
 
 This repository provides the source code associated with our paper **"A Regularity-Guided Coevolutionary Framework for Multi-Objective Neural Architecture Search"**.
 
-It contains two instantiations of RGCF: **CMOSMA_NCHU** and **GrSMEA_NCHU**.
+It contains two representative instantiations of RGCF: **CMOSMA_NCHU**, winner of the **IEEE CEC 2023 Competition on Multiobjective Neural Architecture Search**, and **GrSMEA_NCHU**, winner of the **IEEE WCCI 2024 Competition on Multiobjective Neural Architecture Search Challenge for Real-Time Semantic Segmentation**.
 
 ## Implementation
 
-Both instantiations are implemented based on **PlatEMO**, and the mNAS benchmark problems are provided by **EvoXBench**.
+Both instantiations are implemented on the **PlatEMO** platform, and the mNAS benchmark problems are provided by **EvoXBench**.
 
 Before running the experiments, please install and configure EvoXBench according to its official instructions:
 
@@ -18,8 +18,8 @@ https://github.com/EMI-Group/evoxbench
 - PlatEMO
 - EvoXBench
 
+## Competition Awards
+
 <div align="center">
-  <img src="https://github.com/hccccc92918/RGCF/blob/main/picture.png" width="70%">
+  <img src="picture.png" width="70%">
 </div>
-
-
