@@ -19,7 +19,7 @@ https://github.com/EMI-Group/evoxbench
 - EvoXBench
 
 <div align="center">
-  <img src="https://github.com/hccccc92918/RGCF/tree/main/Picture/picture.png">
+  <img src="https://github.com/hccccc92918/RGCF/blob/main/Picture/picture.png">
 </div>
 
 
